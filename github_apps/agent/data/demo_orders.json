@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ORD1001",
+    "customer_id": "cus_28X44",
+    "date": "2026-10-10",
+    "status": "pending",
+    "product": "Smart Watch",
+    "total": 149.99
+  },
+  {
+    "id": "ORD1002",
+    "customer_id": "cus_28X44",
+    "date": "2026-10-04",
+    "status": "delivered",
+    "product": "Wireless Headphones",
+    "total": 99.99
+  },
+  {
+    "id": "ORD1003",
+    "customer_id": "cus_28X44",
+    "date": "2026-09-29",
+    "status": "shipped",
+    "product": "Bluetooth Speaker (2 units)",
+    "total": 119.98
+  },
+  {
+    "id": "ORD1004",
+    "customer_id": "cus_28X44",
+    "date": "2026-09-21",
+    "status": "cancelled",
+    "product": "Laptop Stand",
+    "total": 54.99
+  },
+  {
+    "id": "ORD1005",
+    "customer_id": "cus_28X44",
+    "date": "2026-09-08",
+    "status": "refunded",
+    "product": "Ergonomic Keyboard",
+    "total": 89.99
+  },
+  {
+    "id": "ORD1006",
+    "customer_id": "cus_28X44",
+    "date": "2026-08-26",
+    "status": "delivered",
+    "product": "Noise Cancelling Earbuds",
+    "total": 129.99
+  },
+  {
+    "id": "ORD1007",
+    "customer_id": "cus_28X44",
+    "date": "2026-08-12",
+    "status": "returned",
+    "product": "Monitor Arm",
+    "total": 79.99
+  },
+  {
+    "id": "ORD1008",
+    "customer_id": "cus_28X44",
+    "date": "2026-10-11",
+    "status": "shipped",
+    "product": "Portable Charger",
+    "total": 39.99
+  },
+  {
+    "id": "ORD1009",
+    "customer_id": "cus_28X44",
+    "date": "2026-10-09",
+    "status": "processing",
+    "product": "Mechanical Keyboard",
+    "total": 119.99
+  },
+  {
+    "id": "ORD1010",
+    "customer_id": "cus_28X44",
+    "date": "2026-07-22",
+    "status": "delivered",
+    "product": "Desk Lamp",
+    "total": 45.5
+  }
+]
